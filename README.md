@@ -119,9 +119,7 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
 
-https://student-performance-ai-bht65xvml9gq2qhvfpcu4r.streamlit.app/
 
 ---
 
